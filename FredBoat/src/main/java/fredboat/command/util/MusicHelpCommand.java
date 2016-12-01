@@ -19,7 +19,7 @@ public class MusicHelpCommand extends TextCommand {
             ="**This is the list of all the music commands this bot can execute:**.\n"
             +"**;;play**        Plays a track. You can either provide an url to a video or track (;;play <url>) or use it to search on youtube (;;play rick roll).\n"
             +"**;;list**        Display a list of the current tracks in the playlist.\n"
-            +"**;;nowplaying    Displays the currently playing track.\n"
+            +"**;;nowplaying**    Displays the currently playing track.\n"
             +"**;;skip**        Skips the current track. Please use in moderation.\n"
             +"**;;stop**        Stops the current track and ***clears*** the playlist. Reserved for moderators.\n"
             +"**;;pause**       Pauses the player.\n"
